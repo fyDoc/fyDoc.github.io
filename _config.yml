@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
+title:            NetpowerFramework
+longtitle:        网幂windows应用基础框架
+author:           江能
 email:            sighingnow@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  嘿嘿
 
 version:          1.0
 gitbook_version:  3.2.3
